@@ -26,7 +26,17 @@ Projeto de **Dashboard de Dados de Vendas** em Python, com gráficos interativos
 ## 🛠 Como Executar Localmente
 
 1. Clone o repositório:
+git clone https://github.com/davila-ravena/DashboardVendas.git
+cd DashboardVendas
 
-```bash
-git clone https://github.com/seuusuario/Dashboard-Vendas.git
-cd Dashboard-Vendas
+2. Ative a venv:
+.\venv\Scripts\Activate.ps1
+
+3. Instale as dependências:
+pip install -r requirements.txt
+
+4. Rode o dashboard interativo:
+python -m streamlit run app.py
+
+5. Abra o navegador no link mostrado pelo terminal (ex.: http://localhost:8501).
+
