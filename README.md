@@ -13,7 +13,7 @@ Projeto de **Dashboard de Dados de Vendas** em Python, com gráficos interativos
 
 ---
 
-## 📷 Exemplos de Gráficos (mostrados direto no GitHub)
+## 📷 Exemplos de Gráficos 
 
 ### Receita ao Longo do Tempo
 ![Receita ao Longo do Tempo](receita_tempo.png)
