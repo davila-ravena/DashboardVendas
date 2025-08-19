@@ -1,0 +1,6 @@
+Data,Produto,Categoria,Quantidade,Preco_Unitario
+2025-01-01,Notebook,Eletrônicos,3,3500
+2025-01-01,Mouse,Periféricos,10,80
+2025-01-02,Celular,Eletrônicos,5,2200
+2025-01-02,Teclado,Periféricos,6,120
+2025-01-03,Fone,Periféricos,7,150
